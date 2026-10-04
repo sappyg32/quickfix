@@ -1,0 +1,619 @@
+{
+    "dealers": [
+        {
+            "blip": {
+                "sprite": 225,
+                "colour": 26
+            },
+            "vehicleBuySpawn": {
+                "heading": 160,
+                "x": -13.1227,
+                "y": -1099.2169,
+                "z": 26.6721
+            },
+            "testDrive": {
+                "heading": 160,
+                "x": -13.1227,
+                "y": -1099.2169,
+                "z": 26.6721
+            },
+            "name": "Premium Deluxe",
+            "id": "premium_deluxe",
+            "categories": [
+                {
+                    "name": "Sports",
+                    "cars": [
+                        {
+                            "model": "sultan",
+                            "price": 250000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Sultan",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "sultanrs",
+                            "price": 350000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Sultan RS",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "elegy",
+                            "price": 200000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Elegy RH8",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "ninef",
+                            "price": 500000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "9F",
+                            "prestige": 1
+                        },
+                        {
+                            "model": "jester",
+                            "price": 450000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Jester",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "comet2",
+                            "price": 620000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Comet",
+                            "prestige": 1
+                        },
+                        {
+                            "model": "feltzer2",
+                            "price": 480000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Feltzer",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "banshee2",
+                            "price": 800000,
+                            "limited": true,
+                            "stock": 5,
+                            "noPromo": true,
+                            "name": "Banshee 900R",
+                            "prestige": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Muscle",
+                    "cars": [
+                        {
+                            "model": "dominator",
+                            "price": 320000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Dominator",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "gauntlet",
+                            "price": 280000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Gauntlet",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "ruiner",
+                            "price": 300000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Ruiner",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "phoenix",
+                            "price": 370000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Phoenix",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "sabregt",
+                            "price": 260000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Sabre GT",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "buccaneer",
+                            "price": 240000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Buccaneer",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "vigero",
+                            "price": 210000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Vigero",
+                            "prestige": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Super",
+                    "cars": [
+                        {
+                            "model": "adder",
+                            "price": 1500000,
+                            "limited": false,
+                            "stock": 2,
+                            "noPromo": false,
+                            "name": "Adder",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "t20",
+                            "price": 2200000,
+                            "limited": true,
+                            "stock": 2,
+                            "noPromo": true,
+                            "name": "T20",
+                            "prestige": 5
+                        },
+                        {
+                            "model": "zentorno",
+                            "price": 1800000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Zentorno",
+                            "prestige": 3
+                        },
+                        {
+                            "model": "osiris",
+                            "price": 1500000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Osiris",
+                            "prestige": 3
+                        },
+                        {
+                            "model": "cheetah",
+                            "price": 1350000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Cheetah",
+                            "prestige": 3
+                        },
+                        {
+                            "model": "entityxf",
+                            "price": 1600000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Entity XF",
+                            "prestige": 3
+                        },
+                        {
+                            "model": "vacca",
+                            "price": 900000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Vacca",
+                            "prestige": 2
+                        },
+                        {
+                            "model": "turismor",
+                            "price": 1400000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Turismo R",
+                            "prestige": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "SUV",
+                    "cars": [
+                        {
+                            "model": "cavalcade",
+                            "price": 220000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Cavalcade",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "baller",
+                            "price": 260000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Baller",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "granger",
+                            "price": 240000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Granger",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "dubsta",
+                            "price": 300000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Dubsta",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "rocoto",
+                            "price": 280000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Rocoto",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "serrano",
+                            "price": 270000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Serrano",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "huntley",
+                            "price": 320000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Huntley S",
+                            "prestige": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Sedans",
+                    "cars": [
+                        {
+                            "model": "asea",
+                            "price": 45000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Asea",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "premier",
+                            "price": 60000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Premier",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "warrener",
+                            "price": 55000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Warrener",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "intruder",
+                            "price": 65000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Intruder",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "primo",
+                            "price": 50000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Primo",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "stanier",
+                            "price": 58000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Stanier",
+                            "prestige": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Motorcycles",
+                    "cars": [
+                        {
+                            "model": "akuma",
+                            "price": 100000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Akuma",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "daemon",
+                            "price": 50000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Daemon",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "hexer",
+                            "price": 70000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Hexer",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "bati",
+                            "price": 150000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Bati 801",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "double",
+                            "price": 120000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Double-T",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "hakuchou",
+                            "price": 180000,
+                            "limited": false,
+                            "stock": 0,
+                            "noPromo": false,
+                            "name": "Hakuchou",
+                            "prestige": 1
+                        }
+                    ]
+                }
+            ],
+            "vehicleSpawn": {
+                "heading": 70.5727,
+                "x": -42.7528,
+                "y": -1098.2972,
+                "z": 26.4224
+            },
+            "markerType": 11,
+            "permissions": {
+                "groups": [],
+                "enable": false
+            },
+            "pos": {
+                "heading": 28.5482,
+                "x": -57.0371,
+                "y": -1097.2462,
+                "z": 26.4223
+            },
+            "blipPos": {
+                "heading": 70.5727,
+                "x": -42.7528,
+                "y": -1098.2972,
+                "z": 26.4224
+            },
+            "vipOnly": false,
+            "interaction": "npc"
+        },
+        {
+            "blip": {
+                "sprite": 225,
+                "colour": 5
+            },
+            "vehicleBuySpawn": {
+                "heading": 118.6041,
+                "x": -1264.6285,
+                "y": -340.1252,
+                "z": 36.7721
+            },
+            "testDrive": {
+                "heading": 118.6041,
+                "x": -1264.6285,
+                "y": -340.1252,
+                "z": 36.7721
+            },
+            "name": "Luxury Imports",
+            "id": "dealer_4moua1",
+            "categories": [
+                {
+                    "name": "Luxury Imports",
+                    "cars": [
+                        {
+                            "model": "22trk502",
+                            "price": 50000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "TRK 502",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "astronmans",
+                            "price": 90000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Astron",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "cometmans",
+                            "price": 80000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Comet EVO",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "everonxl",
+                            "price": 85000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Everon XL",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "horus2",
+                            "price": 150000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Horus",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "hurricane",
+                            "price": 300000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Hurricane",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "sentinelt",
+                            "price": 120000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Sentinel GTS Touring",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "strage",
+                            "price": 100000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Vapid Strage",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "thenm500",
+                            "price": 200000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "TH 500",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "vaquero",
+                            "price": 165000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Vaquero",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "Banshee2",
+                            "price": 400000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Banshee 900R",
+                            "prestige": 0
+                        },
+                        {
+                            "model": "ninef",
+                            "price": 140000,
+                            "limited": false,
+                            "stock": 5,
+                            "noPromo": false,
+                            "name": "Obey 9F",
+                            "prestige": 0
+                        }
+                    ]
+                }
+            ],
+            "vehicleSpawn": {
+                "heading": 99.2027,
+                "x": -1255.9707,
+                "y": -366.6089,
+                "z": 37.1699
+            },
+            "markerType": 2,
+            "permissions": {
+                "groups": [],
+                "enable": false
+            },
+            "pos": {
+                "heading": 107.7745,
+                "x": -1251.7994,
+                "y": -349.7599,
+                "z": 36.9076
+            },
+            "blipPos": {
+                "heading": 107.7745,
+                "x": -1251.7994,
+                "y": -349.7599,
+                "z": 36.9076
+            },
+            "vipOnly": false,
+            "interaction": "npc"
+        }
+    ]
+}
